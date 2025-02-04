@@ -289,7 +289,7 @@ let visibleInfo = ref(true)
   align-items: center;
   justify-content: center;
   gap: 1rem;
-  margin-bottom: 2rem;
+  margin-bottom: 0.5rem;
   flex-wrap: wrap;
 }
 
